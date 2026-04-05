@@ -40,7 +40,7 @@ export function Contact() {
     {
       icon: Phone,
       label: "Phone",
-      value: "+62 813 9220 7233",
+      value: "+62 813 9220 7234",
       href: "tel:+6281392207234",
     },
     {
