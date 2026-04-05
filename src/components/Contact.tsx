@@ -34,13 +34,13 @@ export function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "agammujiono5@gmail.com",
-      href: "mailto:agammujiono5@gmail.com",
+      value: "agammujiono51@gmail.com",
+      href: "mailto:agammujiono51@gmail.com",
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+62 813 9220 7234",
+      value: "+62 813 9220 7233",
       href: "tel:+6281392207234",
     },
     {
